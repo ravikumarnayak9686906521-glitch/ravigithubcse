@@ -1,35 +1,42 @@
 # Hi 👋, I'm Ravikumar
 
 💻 Software Engineer @ Trinity Mobility  
-🚀 Full Stack Developer (Angular + Spring Boot)  
+🚀 Full Stack Developer (Angular + Spring Boot)
 
 ---
 
-## 🔧 Tech Stack
-- Frontend: Angular, TypeScript, JavaScript
-- Backend: Spring Boot, Java, REST APIs
-- Database: SQL Server
-- Tools: Git, Postman, Appsmith
+## 🚀 About Me
+- 💼 Working on real-time applications and scalable backend systems  
+- ⚙️ Strong in REST APIs, system integration, and data handling  
+- 📍 Based in Bengaluru, India  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Angular, TypeScript, JavaScript  
+- **Backend:** Spring Boot, Java, REST APIs  
+- **Database:** SQL Server  
+- **Tools:** Git, Postman, Appsmith  
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 AdaptiveFlow AI
-Real-time cognitive intelligence system using Angular + Spring Boot
+Built a real-time cognitive intelligence system using Angular & Spring Boot for monitoring and analysis.
 
 ### 🔹 Biometric Reporting System
-Cascading filtering system (Department → Division → Employee)
+Implemented cascading filters (Department → Division → Employee) with optimized SQL queries.
 
 ### 🔹 Task Manager App
-Task management system using JavaScript
+Developed a task tracking application with CRUD operations using JavaScript.
 
 ---
 
 ## 📫 Contact Me
-📧 ravikumarnayak9686906521@gmail.com  
+📧 Email: ravikumarnayak9686906521@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ravikumar2002/
 
 ---
 
-⭐️ Passionate about building real-world applications
+⭐ Focused on building scalable and efficient software solutions
